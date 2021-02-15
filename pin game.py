@@ -72,12 +72,7 @@ class Game :
                 
                
 
-    # def score():
-    #     fcount=0
-    #     for frame in  self.frames:
-    #         bcount=0
-    #         for ball in frame:
-    #             if ball ==10:
+  
             
                
 
