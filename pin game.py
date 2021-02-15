@@ -1,3 +1,6 @@
+#Md Jawad
+#Interview Code
+
 import random  
 
 class Game :
